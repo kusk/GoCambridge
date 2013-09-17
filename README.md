@@ -10,7 +10,7 @@ GoCambridge is written in Googles Go language http://golang.org/
 
 Author: Anders Kusk
 
-Homeage: http://maep.dk
+Homepage: http://maep.dk
 
 Github: http://github.com/kusk/gocambridge
 
@@ -21,5 +21,5 @@ To compile and run GoCambridge just:
 - Install goserial with: **go get github.com/tarm/goserial**
 - Download GoCambridge via git or by downloading the zip-file
 - Change the TTY in the gocambridge.go source file
-- Either run: **go run gocambridge.go** or compile: **go build gocambridge.go** GoCambridge.
+- Either run: **go run gocambridge.go** or compile: **go build gocambridge.go**
 - Visit 127.0.0.1:8081 and enjoy!
