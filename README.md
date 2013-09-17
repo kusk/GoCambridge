@@ -2,7 +2,7 @@ GoCambridge
 ===========
 
 GoCambridge is a simple application which enables controlling a Cambridge 340R(and others)
-amplifier over the internet/LAN by sending commands to the amplifiers RS232-port.
+amplifier over the internet/LAN/mobile by sending commands to the amplifiers RS232-port.
 
 GoCambridge is written in Googles Go language http://golang.org/
 
