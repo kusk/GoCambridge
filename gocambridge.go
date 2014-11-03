@@ -54,7 +54,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 		log.Fatal(err) // Print hvis static.html mangler
 	}
 
-	str := string(bs) // Convert static.html to string
+	str := string(bs) // Konverter static.html til string
 
 	i := r.URL.Path[1:]
 
